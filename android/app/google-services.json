@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905490649533",
+    "project_id": "paynah-test",
+    "storage_bucket": "paynah-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905490649533:android:4d49635ffb97e9527dc2d4",
+        "android_client_info": {
+          "package_name": "com.example.paytest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOV9sDHAK9fQaYiVzTRdnyF5N4qWeDWo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
